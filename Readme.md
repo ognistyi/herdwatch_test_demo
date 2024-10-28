@@ -1,3 +1,5 @@
+## This repository contains .env files, just to avoid wasting time trying to deploy this demo. 
+
 docker-compose up -d --build
 
 docker-compose exec server bash
